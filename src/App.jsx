@@ -12,7 +12,7 @@ const projects = [
     description:
       "a responsive personal portfolio website using React, HTML, CSS, and JavaScript to professionally showcase my projects, technical skills, and software development experience. The application features a clean UI, structured layout, and intuitive navigation, demonstrating strong front-end development skills and attention to user experience.",
     tech: ["React", "Tailwind", "Vite"],
-    github: "https://github.com/YOUR_USERNAME/react-portfolio",
+    github: "https://my-portfolio-sable-three-32.vercel.app/",
   },
 
   {
